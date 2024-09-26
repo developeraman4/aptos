@@ -1,27 +1,27 @@
-# P2P Loan System Smart Contract
+# RewardSystem Smart Contract
 
 ## Vision
 
-The **P2P Loan System** smart contract provides a decentralized, trustless platform for peer-to-peer token lending on the Aptos blockchain. Lenders can lend tokens to borrowers, and borrowers can repay loans without intermediaries, ensuring secure, transparent, and direct lending transactions.
+The **RewardSystem** smart contract provides a decentralized platform for rewarding users with tokens. This contract is designed to promote community engagement and incentivize positive actions within a blockchain ecosystem by facilitating easy and transparent token transfers as rewards.
 
 ## Features
 
-- **Lending**:
-  - Lenders can lend AptosCoin tokens to borrowers, with the loan details stored on-chain.
-- **Repayment**:
-  - Borrowers can repay loans directly to lenders, ensuring easy loan settlements.
+- **Reward Users**:
+  - Allows users to transfer tokens (AptosCoin) to others as a form of reward.
+- **Balance Checking**:
+  - Users can check the token balance of any account, enabling transparency of rewards received.
 
 ## Future Scope
 
-1. **Interest Calculation**:
+1. **Automated Rewards**:
 
-   - Implement interest rates and repayment deadlines to create more complex loan agreements.
+   - Implement an automated reward system based on predefined conditions or actions, such as milestones or community contributions.
 
-2. **Collateral Support**:
+2. **Multi-Token Support**:
 
-   - Add support for collateralized loans to reduce the risk for lenders.
+   - Extend functionality to support rewards in multiple cryptocurrencies or tokens.
 
-3. **Multi-Asset Loans**:
-   - Expand functionality to support lending and repayment in multiple cryptocurrencies.
+3. **Reward Tracking**:
+   - Add functionality to track and log all rewards given, enabling transparency and performance-based reward systems.
 
-The **P2P Loan System** offers a simple and decentralized approach to peer-to-peer lending, laying the groundwork for future enhancements such as interest rates and collateralization.
+The **RewardSystem** contract creates a simple and efficient way to incentivize users by distributing rewards, fostering engagement and productivity in decentralized ecosystems.

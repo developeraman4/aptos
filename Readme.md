@@ -1,4 +1,4 @@
-0x8d677e7c083f7ab32aacbbc45bce3a69f0a512f87083c9985c6388ff687e3a5a
+
 # RewardSystem Smart Contract
 
 ## Vision
